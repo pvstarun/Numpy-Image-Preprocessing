@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Vectorization-green)
 # Deep Learning Fundamentals with NumPy
 
 This repository contains my implementation of the introductory Deep Learning assignment completed as part of my Master's course.
