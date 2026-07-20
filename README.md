@@ -57,10 +57,11 @@ numpy-image-preprocessing/
 ├── tests/
 │   └── NumpyTests.py
 │
-├── images/
-│   ├── checker.png
-│   ├── circle.png
-│   └── spectrum.png
+├── output-images/
+│   ├── Checkerboard Pattern.png
+│   ├── Binary Circle Pattern.png
+│   └── RGB Color Spectrum.png
+│   └── Images with their Labels.png
 │
 ├── README.md
 ├── LICENSE
