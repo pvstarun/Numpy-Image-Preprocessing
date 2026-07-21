@@ -47,7 +47,7 @@ Through this exercise I learned
 ## Project Structure
 
 ```
-numpy-image-preprocessing/
+Numpy-Image-Preprocessing/
 │
 ├── src_to_implement/
 │   ├── generator.py
@@ -56,9 +56,6 @@ numpy-image-preprocessing/
 │   └── NumpyTests.py
 │   └── exercise_data/
 │   └── Labels.json
-│
-├── tests/
-│   └── NumpyTests.py
 │
 ├── output-images/
 │   ├── Checkerboard Pattern.png
